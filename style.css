@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    border: 2px solid;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.container h1 {
+    margin-top: 5%  ;
+    margin-bottom: 1%  ;
+}
+
+.login {
+    margin-left: -2%;
+}
+
+.home {
+    margin-left: -2%;
+}
+
+.pg_buy {
+    margin-left: -2%;
+}
+
+.sell_rent {
+    margin-left: -0.5%;
+}
+
+.click {
+    margin-left: 0%;
+}
+
+.auction {
+    margin-left: -1%;
+}
+
+hr {
+    margin-top: 3%;
+    border: 3px solid;
+}
